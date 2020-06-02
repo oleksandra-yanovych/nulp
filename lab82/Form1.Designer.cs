@@ -250,7 +250,7 @@
             this.SortNum.TabIndex = 7;
             this.SortNum.Text = "Sort by number";
             this.SortNum.UseVisualStyleBackColor = true;
-            this.SortNum.Click += new System.EventHandler(this.SortName_Click);
+            this.SortNum.Click += new System.EventHandler(this.SortNum_Click);
             // 
             // SortPhNumber
             // 
@@ -261,7 +261,7 @@
             this.SortPhNumber.TabIndex = 7;
             this.SortPhNumber.Text = "Sort by phone number";
             this.SortPhNumber.UseVisualStyleBackColor = true;
-            this.SortPhNumber.Click += new System.EventHandler(this.SortGroup_Click);
+            this.SortPhNumber.Click += new System.EventHandler(this.SortPhNumber_Click);
             // 
             // SortRating
             // 
@@ -272,7 +272,7 @@
             this.SortRating.TabIndex = 7;
             this.SortRating.Text = "Sort by rating";
             this.SortRating.UseVisualStyleBackColor = true;
-            this.SortRating.Click += new System.EventHandler(this.SortPoint_Click);
+            this.SortRating.Click += new System.EventHandler(this.SortRating_Click);
             // 
             // Form1
             // 
