@@ -1,0 +1,60 @@
+D:\Labs\OOP_LAB4\W3\W3\bin\Debug\netcoreapp3.1\W3.exe
+D:\Labs\OOP_LAB4\W3\W3\obj\Debug\netcoreapp3.1\W3.csprojAssemblyReference.cache
+D:\Labs\OOP_LAB4\W3\W3\obj\Debug\netcoreapp3.1\W3.AssemblyInfoInputs.cache
+D:\Labs\OOP_LAB4\W3\W3\obj\Debug\netcoreapp3.1\W3.AssemblyInfo.cs
+D:\Labs\OOP_LAB4\W3\W3\obj\Debug\netcoreapp3.1\W3.csproj.CoreCompileInputs.cache
+D:\Labs\OOP_LAB4\W3\W3\bin\Debug\netcoreapp3.1\W3.deps.json
+D:\Labs\OOP_LAB4\W3\W3\bin\Debug\netcoreapp3.1\W3.runtimeconfig.json
+D:\Labs\OOP_LAB4\W3\W3\bin\Debug\netcoreapp3.1\W3.runtimeconfig.dev.json
+D:\Labs\OOP_LAB4\W3\W3\bin\Debug\netcoreapp3.1\W3.dll
+D:\Labs\OOP_LAB4\W3\W3\bin\Debug\netcoreapp3.1\W3.pdb
+D:\Labs\OOP_LAB4\W3\W3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Labs\OOP_LAB4\W3\W3\obj\Debug\netcoreapp3.1\W3.csproj.CopyComplete
+D:\Labs\OOP_LAB4\W3\W3\obj\Debug\netcoreapp3.1\W3.dll
+D:\Labs\OOP_LAB4\W3\W3\obj\Debug\netcoreapp3.1\W3.pdb
+D:\Labs\OOP_LAB4\W3\W3\obj\Debug\netcoreapp3.1\W3.genruntimeconfig.cache
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\bin\Debug\netcoreapp3.1\W3.exe
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\bin\Debug\netcoreapp3.1\W3.deps.json
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\bin\Debug\netcoreapp3.1\W3.runtimeconfig.json
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\bin\Debug\netcoreapp3.1\W3.runtimeconfig.dev.json
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\bin\Debug\netcoreapp3.1\W3.dll
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\bin\Debug\netcoreapp3.1\W3.pdb
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\obj\Debug\netcoreapp3.1\W3.csprojAssemblyReference.cache
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\obj\Debug\netcoreapp3.1\W3.csproj.CoreCompileInputs.cache
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\obj\Debug\netcoreapp3.1\W3.AssemblyInfoInputs.cache
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\obj\Debug\netcoreapp3.1\W3.AssemblyInfo.cs
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\obj\Debug\netcoreapp3.1\W3.csproj.CopyComplete
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\obj\Debug\netcoreapp3.1\W3.dll
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\obj\Debug\netcoreapp3.1\W3.pdb
+D:\Labs\OOP\GIT\3\OOP_Lab4_3\W3\obj\Debug\netcoreapp3.1\W3.genruntimeconfig.cache
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\W3.exe
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\W3.deps.json
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\W3.runtimeconfig.json
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\W3.runtimeconfig.dev.json
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\W3.dll
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\W3.pdb
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.csprojAssemblyReference.cache
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.csproj.CoreCompileInputs.cache
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.AssemblyInfoInputs.cache
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.AssemblyInfo.cs
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.csproj.CopyComplete
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.dll
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.pdb
+D:\Labs\OOP\GIT\3 - Copy\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.genruntimeconfig.cache
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\W3.exe
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\W3.deps.json
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\W3.runtimeconfig.json
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\W3.runtimeconfig.dev.json
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\W3.dll
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\W3.pdb
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.csprojAssemblyReference.cache
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.AssemblyInfoInputs.cache
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.AssemblyInfo.cs
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.csproj.CopyComplete
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.dll
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.pdb
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\OOP_Lab8_1\W3\obj\Debug\netcoreapp3.1\W3.genruntimeconfig.cache

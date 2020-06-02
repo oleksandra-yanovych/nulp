@@ -1,0 +1,51 @@
+﻿[
+  {
+    "Num": "8",
+    "Сity": "Lviv",
+    "Street": "Vivsyana",
+    "Rating": "3",
+    "PhNumber": "292-19-45"
+  },
+  {
+    "Num": "4",
+    "Сity": "Lviv",
+    "Street": null,
+    "Rating": "5",
+    "PhNumber": null
+  },
+  {
+    "Num": "1",
+    "Сity": "Kyiv",
+    "Street": null,
+    "Rating": "4.7",
+    "PhNumber": null
+  },
+  {
+    "Num": "6",
+    "Сity": "Odessa",
+    "Street": null,
+    "Rating": "4.5",
+    "PhNumber": null
+  },
+  {
+    "Num": "3",
+    "Сity": "Kcharkiv",
+    "Street": null,
+    "Rating": "4",
+    "PhNumber": null
+  },
+  {
+    "Num": "5",
+    "Сity": "Striy",
+    "Street": null,
+    "Rating": "3",
+    "PhNumber": null
+  },
+  {
+    "Num": "10",
+    "Сity": "Chernivci",
+    "Street": "Sadova",
+    "Rating": "5",
+    "PhNumber": "234-55-76"
+  }
+]
