@@ -1,0 +1,15 @@
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\bin\Debug\netcoreapp3.1\4Lab3.exe
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\obj\Debug\netcoreapp3.1\4Lab3.csprojAssemblyReference.cache
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\obj\Debug\netcoreapp3.1\4Lab3.AssemblyInfoInputs.cache
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\obj\Debug\netcoreapp3.1\4Lab3.AssemblyInfo.cs
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\bin\Debug\netcoreapp3.1\4Lab3.deps.json
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\bin\Debug\netcoreapp3.1\4Lab3.runtimeconfig.json
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\bin\Debug\netcoreapp3.1\4Lab3.runtimeconfig.dev.json
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\bin\Debug\netcoreapp3.1\4Lab3.dll
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\bin\Debug\netcoreapp3.1\4Lab3.pdb
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\obj\Debug\netcoreapp3.1\4Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\obj\Debug\netcoreapp3.1\4Lab3.csproj.CopyComplete
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\obj\Debug\netcoreapp3.1\4Lab3.dll
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\obj\Debug\netcoreapp3.1\4Lab3.pdb
+C:\Users\Oleksandra\source\repos\4Lab3\4Lab3\obj\Debug\netcoreapp3.1\4Lab3.genruntimeconfig.cache
