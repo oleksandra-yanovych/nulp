@@ -1,0 +1,10 @@
+C:\Users\Oleksandra\source\repos\3Lab2\3Lab2\bin\Debug\netcoreapp3.1\3Lab2.exe
+C:\Users\Oleksandra\source\repos\3Lab2\3Lab2\bin\Debug\netcoreapp3.1\3Lab2.deps.json
+C:\Users\Oleksandra\source\repos\3Lab2\3Lab2\bin\Debug\netcoreapp3.1\3Lab2.runtimeconfig.json
+C:\Users\Oleksandra\source\repos\3Lab2\3Lab2\bin\Debug\netcoreapp3.1\3Lab2.runtimeconfig.dev.json
+C:\Users\Oleksandra\source\repos\3Lab2\3Lab2\bin\Debug\netcoreapp3.1\3Lab2.dll
+C:\Users\Oleksandra\source\repos\3Lab2\3Lab2\bin\Debug\netcoreapp3.1\3Lab2.pdb
+C:\Users\Oleksandra\source\repos\3Lab2\3Lab2\obj\Debug\netcoreapp3.1\3Lab2.AssemblyInfoInputs.cache
+C:\Users\Oleksandra\source\repos\3Lab2\3Lab2\obj\Debug\netcoreapp3.1\3Lab2.AssemblyInfo.cs
+C:\Users\Oleksandra\source\repos\3Lab2\3Lab2\obj\Debug\netcoreapp3.1\3Lab2.dll
+C:\Users\Oleksandra\source\repos\3Lab2\3Lab2\obj\Debug\netcoreapp3.1\3Lab2.pdb
