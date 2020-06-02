@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9TUim3hvZcvcENKeIMMqrJUG0RhQipxkQ/I42WgeUNQQcZy6XNpEdFgP+4VMnwD0Bm5/iD05LFnH/8TZaCEIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oleksandra\\source\\repos\\4Lab2\\4Lab2\\4Lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oleksandra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
