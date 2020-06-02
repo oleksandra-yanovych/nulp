@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dsoSu9dC8ljBoYVYX7JasxvoUs8OMAgIY3BvHJA9CEGIYrYsiA6T/PjTPloSz5kjst9odnSj2H9Q7Ap9V1I8Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oleksandra\\source\\repos\\5Lab2\\5Lab2\\5Lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oleksandra\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Oleksandra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+C:\Users\Oleksandra\source\repos\5Lab2\5Lab2\bin\Debug\netcoreapp3.1\5Lab2.exe
+C:\Users\Oleksandra\source\repos\5Lab2\5Lab2\obj\Debug\netcoreapp3.1\5Lab2.csprojAssemblyReference.cache
+C:\Users\Oleksandra\source\repos\5Lab2\5Lab2\obj\Debug\netcoreapp3.1\5Lab2.AssemblyInfoInputs.cache
+C:\Users\Oleksandra\source\repos\5Lab2\5Lab2\obj\Debug\netcoreapp3.1\5Lab2.AssemblyInfo.cs
