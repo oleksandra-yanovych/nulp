@@ -1,0 +1,14 @@
+C:\Users\Макс\source\repos\Lab7_2\Lab7_2\bin\Debug\Lab7_2.exe.config
+C:\Users\Макс\source\repos\Lab7_2\Lab7_2\bin\Debug\Lab7_2.exe
+C:\Users\Макс\source\repos\Lab7_2\Lab7_2\bin\Debug\Lab7_2.pdb
+C:\Users\Макс\source\repos\Lab7_2\Lab7_2\obj\Debug\Lab7_2.csprojAssemblyReference.cache
+C:\Users\Макс\source\repos\Lab7_2\Lab7_2\obj\Debug\Lab7_2.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\Lab7_2\Lab7_2\obj\Debug\Lab7_2.exe
+C:\Users\Макс\source\repos\Lab7_2\Lab7_2\obj\Debug\Lab7_2.pdb
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\Lab7_2\Lab7_2\bin\Debug\Lab7_2.exe.config
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\Lab7_2\Lab7_2\bin\Debug\Lab7_2.exe
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\Lab7_2\Lab7_2\bin\Debug\Lab7_2.pdb
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\Lab7_2\Lab7_2\obj\Debug\Lab7_2.csprojAssemblyReference.cache
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\Lab7_2\Lab7_2\obj\Debug\Lab7_2.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\Lab7_2\Lab7_2\obj\Debug\Lab7_2.exe
+C:\Users\Oleksandra\Desktop\УЧЁБА\Об'єктно-орієнтоване програмування\Lab7_2\Lab7_2\obj\Debug\Lab7_2.pdb
