@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XwpWhA3tHgC9MF3+LS3RXn2V9KZWRb72PtxiXWyssyGhDLOq1wT2Txqg2Gdeb18jzwn6pYR5s+T7qCUIcXbSEg==",
+  "dgSpecHash": "sORSEiZyWjuo3ih/v6OoZnzzEg+dbN33VvyKsqI03TE8lSkBBVOvWIcTb4lNB3fv8/J5ltSfB69YDLzweVsSLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oleksandra\\source\\repos\\7Lab1\\7Lab1\\7Lab1.csproj",
+  "projectFilePath": "C:\\Users\\Oleksandra\\source\\repos\\7Lab1b\\7Lab1b\\7Lab1b.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Oleksandra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

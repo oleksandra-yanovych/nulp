@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "7Lab1/1.0.0": {
+      "7Lab1b/1.0.0": {
         "runtime": {
-          "7Lab1.dll": {}
+          "7Lab1b.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "7Lab1/1.0.0": {
+    "7Lab1b/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

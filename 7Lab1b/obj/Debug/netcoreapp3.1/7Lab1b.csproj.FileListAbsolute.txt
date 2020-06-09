@@ -1,0 +1,13 @@
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\bin\Debug\netcoreapp3.1\7Lab1b.exe
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\bin\Debug\netcoreapp3.1\7Lab1b.deps.json
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\bin\Debug\netcoreapp3.1\7Lab1b.runtimeconfig.json
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\bin\Debug\netcoreapp3.1\7Lab1b.runtimeconfig.dev.json
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\bin\Debug\netcoreapp3.1\7Lab1b.dll
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\bin\Debug\netcoreapp3.1\7Lab1b.pdb
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\obj\Debug\netcoreapp3.1\7Lab1b.csprojAssemblyReference.cache
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\obj\Debug\netcoreapp3.1\7Lab1b.AssemblyInfoInputs.cache
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\obj\Debug\netcoreapp3.1\7Lab1b.AssemblyInfo.cs
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\obj\Debug\netcoreapp3.1\7Lab1b.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\obj\Debug\netcoreapp3.1\7Lab1b.dll
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\obj\Debug\netcoreapp3.1\7Lab1b.pdb
+C:\Users\Oleksandra\source\repos\7Lab1b\7Lab1b\obj\Debug\netcoreapp3.1\7Lab1b.genruntimeconfig.cache

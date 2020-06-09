@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oleksandra\\source\\repos\\7Lab1\\7Lab1\\7Lab1.csproj",
-      "projectName": "7Lab1",
-      "projectPath": "C:\\Users\\Oleksandra\\source\\repos\\7Lab1\\7Lab1\\7Lab1.csproj",
+      "projectUniqueName": "C:\\Users\\Oleksandra\\source\\repos\\7Lab1b\\7Lab1b\\7Lab1b.csproj",
+      "projectName": "7Lab1b",
+      "projectPath": "C:\\Users\\Oleksandra\\source\\repos\\7Lab1b\\7Lab1b\\7Lab1b.csproj",
       "packagesPath": "C:\\Users\\Oleksandra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oleksandra\\source\\repos\\7Lab1\\7Lab1\\obj\\",
+      "outputPath": "C:\\Users\\Oleksandra\\source\\repos\\7Lab1b\\7Lab1b\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
